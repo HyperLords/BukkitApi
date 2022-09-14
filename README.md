@@ -54,4 +54,8 @@ commands:
 -----------------------------------------------------------------------------------
   
 easy Api 
+Multiconfig creator method abstract method 
+  extends MulticonfigurationVarient
+  
+  
  
