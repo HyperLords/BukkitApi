@@ -1,0 +1,11 @@
+name: BukkitApi
+version: '2.0'
+main: org.BukkitApi.main.BukkitApiPacket
+authors: [ OyunTarayici ]
+commands:
+  example:
+    usage: /<command>
+    description: Bukkit api example
+    aliases:
+      - btapi
+  bukkitconsole:
